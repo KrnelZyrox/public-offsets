@@ -1,26 +1,26 @@
 Newest Fortnite Offsets every Update!
 
-//Dumped on 15/11/2020
+//Dumped on 18/11/2020
 
-🔵 Engine::FortMeatballVehicle::FortMeatballVehicleConfigsClass = 0x1330;
+🔵 Engine::FortMeatballVehicle::FortMeatballVehicleConfigsClass = 0x1340;
 
-🔵 Engine::FortMeatballVehicleConfigs::BoostMinPushForce: 0x600;
+🔵 Engine::FortMeatballVehicleConfigs::BoostMinPushForce: 0x608;
 
-🔵 Engine::FortMeatballVehicleConfigs::BoostTopSpeedForceMultiplier: 0x604;
+🔵 Engine::FortMeatballVehicleConfigs::BoostTopSpeedForceMultiplier: 0x60C;
 
-🔵 Engine::FortMeatballVehicleConfigs::BoostTopSpeedMultiplier: 0x608;
+🔵 Engine::FortMeatballVehicleConfigs::BoostTopSpeedMultiplier: 0x610;
 
-🔵 Engine::FortMeatballVehicleConfigs::LandTopSpeedMultiplier: 0x610;
+🔵 Engine::FortMeatballVehicleConfigs::LandTopSpeedMultiplier: 0x618;
 
-🔵 Engine::FortMeatballVehicleConfigs::LandPushForceMultiplier: 0x614;
+🔵 Engine::FortMeatballVehicleConfigs::LandPushForceMultiplier: 0x61C;
 
-🔵 Engine::FortMeatballVehicleConfigs::BoostSteeringMultiplier: 0x654;
+🔵 Engine::FortMeatballVehicleConfigs::BoostSteeringMultiplier: 0x65C;
 
-🔵 Engine::FortMeatballVehicleConfigs::LandSteeringMultiplier: 0x65C;
+🔵 Engine::FortMeatballVehicleConfigs::LandSteeringMultiplier: 0x664;
 
-🔵 Engine::FortMeatballVehicleConfigs::LandMinSpeedSteeringAngle: 0x660;
+🔵 Engine::FortMeatballVehicleConfigs::LandMinSpeedSteeringAngle: 0x668;
 
-🔵 Engine::FortMeatballVehicleConfigs::LandMaxSpeedSteeringAngle: 0x664;
+🔵 Engine::FortMeatballVehicleConfigs::LandMaxSpeedSteeringAngle: 0x66C;
 
 🔵 Engine::World::Levels: 0x138;
 
@@ -38,7 +38,7 @@ Newest Fortnite Offsets every Update!
 
 🔵 Engine::Pawn::PlayerState: 0x240;
 
-🔵 Engine::Actor::RootComponent: 0x130;;
+🔵 Engine::Actor::RootComponent: 0x130;
 
 🔵 Engine::Character::Mesh: 0x280;
 
@@ -52,7 +52,7 @@ Newest Fortnite Offsets every Update!
 
 🔵 Engine::Actor::CustomTimeDilation: 0x98;
 
-🔵 FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTimeVerified: 0x8F0;
+🔵 FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTimeVerified: 0x8F0
 
 🔵 FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTime: 0x8EC;
 
@@ -113,3 +113,4 @@ Newest Fortnite Offsets every Update!
 🔵 FortniteGame::BuildingContainer::bAlreadySearched= 0xC71;
 
 🔵 Offsets::Engine::Controller::RemoteViewPitch= 0x232;
+
